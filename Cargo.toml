@@ -1,0 +1,11 @@
+[package]
+name = "watch-git"
+version = "0.1.0"
+authors = ["Chris Hardekopf <cjh@ygdrasill.com>"]
+
+[dependencies]
+docopt_macros = "0.6.85"
+toml = "0.2.0"
+log = "0.3.6"
+notify = "2.6.3"
+git2 = "0.4.4"
